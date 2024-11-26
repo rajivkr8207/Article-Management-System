@@ -1,0 +1,33 @@
+# Virtual environment directories
+venv/
+env/
+
+# Python-specific files
+*.pyc
+*.pyo
+__pycache__/
+
+# Database files
+*.sqlite3
+db.sqlite3
+
+# Django secret files (if any)
+*.env
+
+# Media uploads (if applicable, adjust the directory as needed)
+media/
+
+# Logs
+*.log
+
+# Build files
+dist/
+build/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body {
+  /* font-family: "Poppins", sans-serif; */
+  background: linear-gradient(to right, #6366f1, #a855f7, #ec4899);
+  font-family: "DM Serif Text", serif;
+  font-weight: 400;
+  /* font-style: italic; */
+  /* background: url("./assets/flower.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed; */
+}
